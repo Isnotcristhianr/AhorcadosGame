@@ -15,6 +15,7 @@ const palabras = [
   "moto",
   "avion",
   "bicicleta",
+  "Universidad"
 ]; //generar palabras aleatorias
 
 //encontrar palabra
